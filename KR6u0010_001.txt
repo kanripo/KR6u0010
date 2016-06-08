@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:30.259742
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:00
 #+TITLE: 小法滅盡經
 #+PROPERTY: CBETA_ID T85n2874
 #+PROPERTY: ID KR6u0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2874
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6u0010_T_000-1358c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6u0010_T_001-1358c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2874¶
-
- 佛說小法滅盡經¶
+No. 2874¶
+佛說小法滅盡經¶
 ¶
 
 聞如是。一時佛在拘夷那竭國。如來三月當¶
